@@ -1,0 +1,6 @@
+{
+  "_comment": "Three-node line: the SINR counterexample. u=0, v=450, w=970. G² says u and w can share a slot. Physics says SINR at v ≈ 1.26 dB < 10 dB threshold → packet lost.",
+  "u": [0.0, 0.0],
+  "v": [450.0, 0.0],
+  "w": [970.0, 0.0]
+}
